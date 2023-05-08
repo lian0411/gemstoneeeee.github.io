@@ -1,0 +1,45 @@
+body{
+    background-color: #F4D9E7;
+ }
+ .dotted{
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #EFA3C8;
+     border-width: 8px;
+     height: 0px;
+     width: 5%;
+ }
+
+ .none{
+   border-style: none;
+   height: 0px;
+ }
+ h1{
+    color: #EFA3C8;
+    
+ }
+ h2:hover {
+   background-color: black;
+ }
+ /*hover text bgcolor too long*/
+ 
+ h2{
+   width: 200px;
+   color: #EFA3C8;
+   margin-left: 10px;
+   text-decoration: solid;
+ }
+ h4:hover{
+   background-color: white;
+
+ }
+
+ h4{
+   width: 270px;
+ }
+ h3{
+   color: #EFA3C8;
+}
+img:hover{
+   background-color: white;
+}
