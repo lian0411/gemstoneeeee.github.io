@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/river.jpg)
+    background-image: url("images/river.jpg")
     background-color: #F4D9E7;
  }
  .dotted{
